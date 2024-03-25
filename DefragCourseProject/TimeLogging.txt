@@ -1,0 +1,4 @@
+Count: 50000
+Total execution time: 195083
+Average unit execution time: 142,54366
+Max unit execution time: 64891
